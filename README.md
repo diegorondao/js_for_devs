@@ -1,5 +1,5 @@
 ## Web Moderno
-* Cursos: Javascript, React, Node, HTML, CSS, jQuery, Bootstrap 4, Webpack, Gulp, Banco de Dados e muito mais.
+* Javascript completo do Iniciante ao Mestre
 
 ## Sobre
 
@@ -7,7 +7,7 @@
 * Ele é apenas um material de estudo e não deve ser usado em produção.
 
 ## Referência
-* [ Web Moderno](https://www.udemy.com/curso-web/)
+* [ JS Do Iniciante ao Mestre](https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/)
 
 ## Instalação
 
