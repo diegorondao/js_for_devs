@@ -12,12 +12,18 @@ soma.propriedade = 'Propriedade da função'
 console.log(soma.propriedade)
 
 
-//JavaScript é uma linguagem funcional, portanto eu posso atribuir uma função a uma variável e chamar essa variável como função.
+/*
+
+ JavaScript é uma linguagem funcional, portanto eu posso atribuir uma função a uma variável e chamar essa    variável como função.
+
+ */
+
 var minhaFuncao = function(str){
     console.log('Olá',str)
 } 
 
 minhaFuncao('mundo!')
+
 
 // Funções também podem ser passadas por parâmetro em outra função.
 var minhaFuncao2 = function(funcao){
