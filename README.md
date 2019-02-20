@@ -1,13 +1,9 @@
-## Web Moderno
-* Javascript completo do Iniciante ao Mestre
+## Guia de estudo
 
 ## Sobre
 
 * Projeto criado com intuito acadêmico.
 * Ele é apenas um material de estudo e não deve ser usado em produção.
-
-## Referência
-* [ JS Do Iniciante ao Mestre](https://www.udemy.com/javascript-completo-2018-do-iniciante-ao-mestre/)
 
 ## Instalação
 
