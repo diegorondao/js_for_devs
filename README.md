@@ -1,4 +1,5 @@
 ## Guia de estudo
+* Estudos sobre o JS 
 
 ## Sobre
 
