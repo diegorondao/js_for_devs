@@ -17,9 +17,9 @@ function FormularioCadastro() {
       <input type="checkbox" />
       <label>Novidades</label>
       <input type="checkbox" />
-
-      <Button variant="contained" color="primary">
-        ello World
+      
+      <Button type="submit" variant="contained" color="primary">
+        Cadastrar
       </Button>
     </form>
   );
